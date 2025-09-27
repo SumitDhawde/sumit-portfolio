@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sumit-portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/sumit-portfolio/static/js/main.2e90e5b2.js",
+    "static/media/home1.png": "/sumit-portfolio/static/media/home1.af0752cb9c9d1a53e002.png",
+    "static/media/sinhgad.png": "/sumit-portfolio/static/media/sinhgad.7e2472926279e7645815.png",
+    "static/media/ctbora.png": "/sumit-portfolio/static/media/ctbora.cc163aaa68820a8d7bbc.png",
+    "static/media/sumit-pic.jpg": "/sumit-portfolio/static/media/sumit-pic.365d2d22618b964e5160.jpg",
+    "static/media/ekart.png": "/sumit-portfolio/static/media/ekart.825458b4728dda0d8de0.png",
+    "static/media/task.png": "/sumit-portfolio/static/media/task.24ef7aebe978ca4e4c5d.png",
+    "index.html": "/sumit-portfolio/index.html",
+    "main.bf538fe7.css.map": "/sumit-portfolio/static/css/main.bf538fe7.css.map",
+    "main.2e90e5b2.js.map": "/sumit-portfolio/static/js/main.2e90e5b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.2e90e5b2.js"
+  ]
+}
