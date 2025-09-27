@@ -1,5 +1,7 @@
 {
   "name": "sumit_portfolio",
+  "homepage": "https://SumitDhawde.github.io/sumit-portfolio",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
