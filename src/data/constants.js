@@ -11,8 +11,8 @@ export const Bio = {
     "Web Developer",
     "Fronend Developer",
     "BackEnd Developer",
-    "FullStack Developer",
-    "Programmer",
+    "FullStack Developer"
+  ,
   ],
   description:
     "Versatile developer with a strong foundation in Problem solving and eager to learning new things, complemented by expertise in Front-End Development and User Interface Design. Proficient in HTML5, CSS and JavaScript, with experience in Node.js for backend development. Skilled in multiple programming languages including Java,and Python.Adept at database management using SQL.",
