@@ -18,7 +18,7 @@ export const Bio = {
     "Versatile developer with a strong foundation in Problem solving and eager to learning new things, complemented by expertise in Front-End Development and User Interface Design. Proficient in HTML5, CSS and JavaScript, with experience in Node.js for backend development. Skilled in multiple programming languages including Java,and Python.Adept at database management using SQL.",
   github: "https://github.com/sumitdhawde/",
   resume:
-    "https://drive.google.com/file/d/1PbiGrrKEDsh1ms7J9hTmb1LawTcq7d85/view?usp=sharing",
+    "https://drive.google.com/file/d/1Gk9BVKQ1tH7ZIoiKJmxRqTw51SPoPj0o/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sumit-dhawade-1324a2268/",
   
 };
@@ -60,11 +60,11 @@ export const skills = [
         name: "Node Js",
         image: "https://nodejs.org/static/images/logo.svg",
       },
-      {
-        name: "Python",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-      },
+      // {
+      //   name: "Python",
+      //   image:
+      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      // },
      {
         name: "java",
         image: "https://www.vectorlogo.zone/logos/java/java-icon.svg",
@@ -78,11 +78,11 @@ export const skills = [
       //   name: "Postgresql",
       //   image: "https://www.postgresql.org/media/img/about/press/elephant.png",
       // },
-      {
-        name: "MongoDB",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-      },
+      // {
+      //   name: "MongoDB",
+      //   image:
+      //     "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+      // },
       // {
       //   name: "Firebase",
       //   image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
